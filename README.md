@@ -5,8 +5,8 @@ A place to collaborate and share course notes on all topics related to machine l
 
 :new: denotes recently published notes
 
-### MIT 6.S191 Introduction to Deep Learning (2022) [[Website](http://introtodeeplearning.com/)]
-Lectures by: Alexander Amini and Ava Soleimany
+### MIT 6.S191 Introduction to Deep Learning (2022) 
+[Website](http://introtodeeplearning.com/) | Lectures by: Alexander Amini and Ava Soleimany
 
 <table class="tg">
   <tr>
@@ -49,7 +49,7 @@ Lectures by: Alexander Amini and Ava Soleimany
     <td class="tg-yw4l">Deep Reinforcement Learning</td>
     <td class="tg-yw4l">Deep RL key concepts and DQNs.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/-WbN61qtTGQ">Video<a></td>
-    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
   <tr>
@@ -69,7 +69,8 @@ Lectures by: Alexander Amini and Ava Soleimany
       
 </table>
 
-### CS224N: Natural Language Processing with Deep Learning (2022) [[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)]
+### CS224N: Natural Language Processing with Deep Learning (2022) 
+[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 <table class="tg">
   <tr>
@@ -82,9 +83,9 @@ Lectures by: Alexander Amini and Ava Soleimany
   
   <tr>
     <td class="tg-yw4l">Introduction and Word Vectors</td>
-    <td class="tg-yw4l">Introduction to NLP and word vectors.</td>
+    <td class="tg-yw4l">Introduction to NLP and Word Vectors.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
-    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes/issues/3">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0">Notes :new:</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
   <tr>
@@ -96,12 +97,75 @@ Lectures by: Alexander Amini and Ava Soleimany
   </tr>
 </table>
 
-      
+### CS25: Transformers United
+[Website](https://web.stanford.edu/class/cs25/) | Instructors: Div Garg, Chetanya Rastogi, Advay Pal
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Transformers</td>
+    <td class="tg-yw4l">A short summary of attention and Transformers.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/P127jhj-8-Y">Video<a></td>
+    <td class="tg-yw4l"><a href="https://www.notion.so/dair-ai/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Transformers in Language: GPT-3, Codex</td>
+    <td class="tg-yw4l">The development of GPT Models including GPT3.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/qGkzHFllWDY">Video<a></td>
+    <td class="tg-yw4l">WIP</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
+### Machine Learning Specialization (2022) 
+[Website](https://www.coursera.org/specializations/machine-learning-introduction)
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Machine Learning</td>
+    <td class="tg-yw4l">Supervised Machine Learning: Regression and Classification</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Advanced Learning Algorithms</td>
+    <td class="tg-yw4l">Advanced Learning Algorithms</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
+    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
+ 
 ---
 ### How To Contribute
 
 1) Identify a course and lecture from this [list](https://github.com/dair-ai/ML-YouTube-Courses). If you are working on notes for a lecture, please indicate by opening an issue. This avoids duplicate work. 
-2) Write your notes, preferably in a Google document, Notion document, or GitHup repo.
+2) Write your notes, preferably in a Google document, Notion document, or GitHub repo.
 3) We care about quality, so make sure to revise your notes before submitting.
 4) Once you are finished, open a PR here.
 
